@@ -5,15 +5,11 @@ Project: Maven
 
 Language: Java
 
-Spring Boot: última versión estable
-
-Group: com.tuempresa
-
-Artifact: productos
+Spring Boot: 4.0.3
 
 Packaging: Jar
 
-Java: 17 o 21
+Java: 21
 
 Dependencias:
 
